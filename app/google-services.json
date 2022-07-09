@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "185651321186",
+    "project_id": "mad-week-6-practical",
+    "storage_bucket": "mad-week-6-practical.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185651321186:android:6e58775dbc3390aa0db43b",
+        "android_client_info": {
+          "package_name": "sg.edu.np.mad.week3madpractical"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185651321186-0jv1i394fr27cge01bq7fv33d1uh2moj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sg.edu.np.mad.week3madpractical",
+            "certificate_hash": "e4f2978537376fff450497182eebb658ec0c4580"
+          }
+        },
+        {
+          "client_id": "185651321186-aq79lu941q502shi75a6ulad9m16671p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQjxDscFBRdV2jf2fn3gmAak6SCpUbHnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185651321186-aq79lu941q502shi75a6ulad9m16671p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
